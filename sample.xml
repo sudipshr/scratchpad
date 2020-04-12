@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+    <id>1234</id>
+    <name>Don</name>
+    <Address>
+        <street>123 Main St</street>
+        <city>Don City</city>
+        <state>VA</state>
+        <country>USA</country>
+    </Address>
+    <Enrollments>
+        <Enrollment>
+            <Course>
+                <courseId>123</courseId>
+                <term>Fall2020</term>
+                <description>xyz 101</description>
+            </Course>
+
+        </Enrollment>
+        <Enrollment>
+
+            <Course>
+                <courseId>126</courseId>
+                <term>Fall2020</term>
+                <description>xyz 104</description>
+            </Course>
+        </Enrollment>
+        <Enrollment>
+
+            <Course>
+                <courseId>124</courseId>
+                <term>Fall2020</term>
+                <description>xyz 102</description>
+            </Course>
+
+        </Enrollment>
+        <Enrollment>
+
+            <Course>
+                <courseId>125</courseId>
+                <term>Fall2020</term>
+                <description>xyz 103</description>
+            </Course>
+
+        </Enrollment>
+    </Enrollments>
+    
+</Student>
